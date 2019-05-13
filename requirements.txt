@@ -1,0 +1,4 @@
+requests==2.18.4
+pandas==0.22.0
+py2neo==3
+beautifulsoup4==4.7.1
