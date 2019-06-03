@@ -26,4 +26,4 @@ email:767624851@qq.com
 - beautifulsoup4
 
 # Display
-(display/自走棋知识图谱.mp4)
+(display/https://github.com/yatengLG/dota2-autochess-KG/tree/master/display/展示.gif)
