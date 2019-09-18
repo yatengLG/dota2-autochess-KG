@@ -26,5 +26,5 @@ email:767624851@qq.com
 - beautifulsoup4
 
 # Display
-![gif](display/%E5%B1%95%E7%A4%BA.gif)   
+![image](display/展示.gif)   
 
