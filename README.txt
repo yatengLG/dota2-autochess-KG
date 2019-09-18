@@ -26,5 +26,5 @@ email:767624851@qq.com
 - beautifulsoup4
 
 # Display
-![image](https://github.com/yatengLG/dota2-autochess-KG/tree/master/display/展示.gif)   
+![gif](https://github.com/yatengLG/dota2-autochess-KG/tree/master/display/展示.gif)   
 
